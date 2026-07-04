@@ -5,7 +5,7 @@
 ---
 
 ## 📄 Resume
-👉 **[Click Here to View My Full Resume (PDF Link)](https://github.io)**
+👉 **[Click Here to View My Full Resume (PDF Link)](Ritik_Ranjan_Sahu_Resume.pdf)**
 
 *Note: The link above automatically streams my latest updated resume copy directly inside your browser.*
 
